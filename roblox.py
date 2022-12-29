@@ -18,12 +18,12 @@ import random
 import os
 import subprocess
 import time
-title = f"Roblox gen and tools by squeazzy#0381"
+title = f"if u need help dm me on discord squeazzy#0381"
 system("title " + title)
 def CountingNIggers():
  for i in range(90):
    time.sleep(1)
-   print(i)
+   print("bypassing ratelimit" + i)
 class bcolors:
 	HEADER = '\033[95m'
 	OKBLUE = '\033[94m'
