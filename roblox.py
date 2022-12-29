@@ -18,7 +18,7 @@ import random
 import os
 import subprocess
 import time
-title = f"Roblox gen and tools by Vilinta#0001"
+title = f"Roblox gen and tools by squeazzy#0381"
 system("title " + title)
 def CountingNIggers():
  for i in range(90):
@@ -37,14 +37,7 @@ class bcolors:
 wtf = "n"
 bot = False
 print('')
-print(f'$$\    $$\ $$\ $$\ $$\            $$\                     $$$$$$$\             $$\     ')
-print(f'$$ |   $$ |\__|$$ |\__|           $$ |                    $$  __$$\            $$ |    ')
-print(f'$$ |   $$ |$$\ $$ |$$\ $$$$$$$\ $$$$$$\    $$$$$$\        $$ |  $$ | $$$$$$\ $$$$$$\   ')
-print(f'\$$\  $$  |$$ |$$ |$$ |$$  __$$\\_$$  _|   \____$$\       $$$$$$$\ |$$  __$$\\_$$  _|  ')
-print(f' \$$\$$  / $$ |$$ |$$ |$$ |  $$ | $$ |     $$$$$$$ |      $$  __$$\ $$ /  $$ | $$ |    ')
-print(f'  \$$$  /  $$ |$$ |$$ |$$ |  $$ | $$ |$$\ $$  __$$ |      $$ |  $$ |$$ |  $$ | $$ |$$\ ')
-print(f'   \$  /   $$ |$$ |$$ |$$ |  $$ | \$$$$  |\$$$$$$$ |      $$$$$$$  |\$$$$$$  | \$$$$  |')
-print(f"    \_/    \__|\__|\__|\__|  \__|  \____/  \_______|      \_______/  \______/   \____/ ")
+print(f'skidded gen from github by vilintaskidder (u can skid it too LOOL)')
 print('')
 print(f"{bcolors.WARNING}Advanced options and tools? (n for fast start) y/n{bcolors.ENDC}")
 faststart = input()
@@ -57,7 +50,7 @@ if faststart == "y":
 	raid = input()
 	print("")
 	if raid == "y":
-		print(f"{bcolors.WARNING}Paste the link to the account (ex. https://www.roblox.com/users/3965173645/profile){bcolors.ENDC}")
+		print(f"{bcolors.WARNING}Paste the link to the account (ex. https://www.roblox.com/users/414153224/profile){bcolors.ENDC}")
 		user = input()
 		print("")
 	print(f"{bcolors.WARNING}Run in manual mode? y/n{bcolors.ENDC}")
@@ -78,7 +71,7 @@ elif faststart == "a":
 		raid = input()
 		print("")
 		if raid == "y":
-			print(f"{bcolors.WARNING}Paste the link to the account (ex. https://www.roblox.com/users/3965173645/profile){bcolors.ENDC}")
+			print(f"{bcolors.WARNING}Paste the link to the account (ex. https://www.roblox.com/users/5346316134/profile){bcolors.ENDC}")
 			user = input()
 			print("")
 		print(f"{bcolors.WARNING}Run in manual mode? y/n{bcolors.ENDC}")
